@@ -7,4 +7,4 @@ Today's Progress: Terminando operaciones básicas en Python 3 y algoritmos. Cono
 
 Thoughts: Con la cabeza llena de información pero progresando. Debo seguir resolviendo ejercicios y crear mi propio proyecto.
 
-Link to work: [Example](http://www.github.com)
+Link to work: [Excercises](https://www.udemy.com/python-for-beginner/learn/v4/t/lecture/8843008?start=0)
